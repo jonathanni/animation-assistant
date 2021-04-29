@@ -1,8 +1,8 @@
-#Animation Assistant
+# Animation Assistant
 
 Low footprint GUI application for playing image sequences at variable framerates.
 
-##Build
+## Build
 
 Prerequisite: download the wxWidgets library, and follow its build instructions.
 
